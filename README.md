@@ -1,12 +1,12 @@
-# Erin Bednarik
-U6062992@UTAH.EDU  
-[LinkedIn](https://www.linkedin.com/in/erin-bednarik-rhia-214a271a5/)
+# Erin Bednarik | U6062992@UTAH.EDU | [LinkedIn](https://www.linkedin.com/in/erin-bednarik-rhia-214a271a5/)
+ 
+## Introduction
 
 I am a data analyst with a background in healthcare systems and data management, with experience working across tools such as Epic, OnBase, and SQL-based environments. My work focuses on transforming complex, real-world data into actionable insights that support operational and clinical decision-making.
 
 I am particularly interested in healthcare analytics and data-driven problem solving, with an emphasis on data quality, reproducibility, and clear communication of results. My experience working with large, imperfect datasets has strengthened my ability to identify data issues, design scalable solutions, and translate technical findings into meaningful outcomes.
 
-Project: [Credit Default Risk Prediction](https://github.com/u6062992/home-credit-project)
+## Project: [Credit Default Risk Prediction](https://github.com/u6062992/home-credit-project)
 
 This project demonstrates an end-to-end machine learning workflow designed to predict the likelihood of credit default. The analysis integrates multiple data sources, applies extensive feature engineering, and evaluates models using best practices for imbalanced classification.
 
